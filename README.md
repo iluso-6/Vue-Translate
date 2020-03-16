@@ -1,5 +1,3 @@
-
-
 <table>
 		<th colspan="3"><h1><b>Vue translate implementation</b></h1></th>
   <tr>
